@@ -18,7 +18,7 @@ EcoForce fosters *sustainability, civic engagement, and environmental action*, m
 ---
 
 ## 🌐 Live Demo
-Check out the deployed version of EcoForce here: *[EcoForce Live](hackoholics-hack-it-up.vercel.app)*
+Check out the deployed version of EcoForce here: *[EcoForce Live](https://hackoholics-hack-it-up-dev-rohit-makers-projects.vercel.app)*
 
 ---
 
