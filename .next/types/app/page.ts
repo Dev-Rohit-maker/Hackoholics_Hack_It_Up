@@ -1,4 +1,4 @@
-// File: C:\Users\Rishabh\Downloads\crowdfunding\EcoForce_HACK-IT-UP\app\page.tsx
+// File: C:\Users\ronne\.cursor-tutor\projects\Hackoholics_Hack_It_Up\app\page.tsx
 import * as entry from '../../../app/page.js'
 import type { ResolvingMetadata, ResolvingViewport } from 'next/dist/lib/metadata/types/metadata-interface.js'
 
